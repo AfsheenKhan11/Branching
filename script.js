@@ -1,3 +1,4 @@
+// this is muzammil
 const productForm = document.getElementById("productForm");
 const productTable = document.getElementById("productTable");
 const productQuantityInput = document.getElementById("productQuantity");
